@@ -1,3 +1,5 @@
+Копия репозитория с моего старого [аккаунта](https://github.com/speedblizzz).
+
 ## Emails editor labrary
 The small JavaScript Emails Editor library
 
